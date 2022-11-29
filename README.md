@@ -1,2 +1,2 @@
 # git_practice_assignment
-Assssment for palindrome and prime number problem
+Assessment for palindrome and prime number problem
