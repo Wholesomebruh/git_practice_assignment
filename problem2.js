@@ -1,8 +1,9 @@
-for(let i=0;i<N;i++){
-    if(arr[i]==arr[N-1-i]){
-        console.log("Palindrome");
-        break;
-    }else{
-        console.log("No");
-    }
+let str="mam"
+
+let bag=""
+for(i=str.length-1;i>=0;i--){
+  bag+=str[i]
 }
+
+if(str==bag){console.log("palindrome")}
+else{console.log("No")}
